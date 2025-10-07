@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|c:\\users\\pc-1\\desktop\\web-api---actividad-pr-ctica-facundobaroffio\\creacion de api\\primerapi\\primerapi\\controllers\\actualizarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|solutionrelative:primerapi\\controllers\\actualizarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|c:\\users\\pc-1\\desktop\\web-api---actividad-pr-ctica-facundobaroffio\\creacion de api\\primerapi\\primerapi\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|solutionrelative:primerapi\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|c:\\users\\pc-1\\desktop\\web-api---actividad-pr-ctica-facundobaroffio\\creacion de api\\primerapi\\primerapi\\controllers\\alldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|solutionrelative:primerapi\\controllers\\alldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|c:\\users\\pc-1\\desktop\\web-api---actividad-pr-ctica-facundobaroffio\\creacion de api\\primerapi\\primerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|solutionrelative:primerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|c:\\users\\pc-1\\desktop\\web-api---actividad-pr-ctica-facundobaroffio\\creacion de api\\primerapi\\primerapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67DE6BC-2069-49EB-B323-8145E270513B}|PrimerApi\\PrimerApi.csproj|solutionrelative:primerapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizarController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\ActualizarController.cs",
+              "RelativeDocumentMoniker": "PrimerApi\\controllers\\ActualizarController.cs",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\ActualizarController.cs",
+              "RelativeToolTip": "PrimerApi\\controllers\\ActualizarController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T00:49:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllDataController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\AllDataController.cs",
+              "RelativeDocumentMoniker": "PrimerApi\\controllers\\AllDataController.cs",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\AllDataController.cs",
+              "RelativeToolTip": "PrimerApi\\controllers\\AllDataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:22:43.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\NameController.cs",
+              "RelativeDocumentMoniker": "PrimerApi\\controllers\\NameController.cs",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\NameController.cs",
+              "RelativeToolTip": "PrimerApi\\controllers\\NameController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:11:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\Program.cs",
+              "RelativeToolTip": "PrimerApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:40:28.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrimerApi\\controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Web-Api---Actividad-Pr-ctica-FacundoBaroffio\\creacion de api\\PrimerApi\\PrimerApi\\controllers\\HomeController.cs",
+              "RelativeToolTip": "PrimerApi\\controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:25:12.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
